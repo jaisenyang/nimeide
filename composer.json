@@ -1,5 +1,5 @@
 {
-	"name":"quanzhan/hello",
+	"name":"quanzhan/nihao",
 	 "require":{
         "monolog/monolog": "1.0.*"
     },
